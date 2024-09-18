@@ -1,17 +1,17 @@
 body {
     color: rgb(255, 152, 161);
-    background: rgb(196, 212, 255);
+    background: rgb(124, 158, 253);
     margin: 0px
 }
 
 header {
-    border-bottom: solid 2px rgb(206, 61, 61);
+    border-bottom: solid 2px rgb(255, 152, 161);
     padding: 20px;
     font-size: 32px;
 }
 
 .chamada {
-    background: rgb(124, 158, 253);
+    background: rgb(196, 212, 255);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
